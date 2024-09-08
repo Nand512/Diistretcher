@@ -1,0 +1,2 @@
+9/8/2024
+thought of this while doing research on black bars for my Wii. basically wanted to use 4:3 with black bars as opposed to stretching it to fill the screen-computers OS have this built in, but the Wii does not. thus i will have to resort to the ASUS VG248 to find a way to work with this. the VG248 has an OSD which is the on screen menu-you can change colors and the positioning of the OSD itself, and you can change the input option (HDMI, VGA, etc) BUT you cannot change the way the input fits the monitor's aspect ratio.
